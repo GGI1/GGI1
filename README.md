@@ -2,4 +2,4 @@
 - 👀 I’m interested in python and c++ programming
 - 🌱 I’m currently just learning to program 
 - 💞️ I’m looking to collaborate on with everyone who can help me with my training and also needs help
-- 📫 How to reach me ? Very simple. You can write to me in a _telegram_: ** @FEDUK_EB**
+- 📫 How to reach me ? Very simple. You can write to me in a _telegram_: ** https://t.me/F2DOR_L **
